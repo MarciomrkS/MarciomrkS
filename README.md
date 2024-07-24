@@ -1,6 +1,6 @@
 - 👋 Olá! Meu nome é Márcio Fonseca
 
-- 💼 Atuo na área de TI de uma entidade pública local.
+- 💼 Atualmente em TI em um órgão público local.
 - 🔍 Áreas de Interesse: 
   Segurança da Informação,
   Computação em Nuvem, Customer Support,
