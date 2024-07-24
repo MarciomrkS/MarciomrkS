@@ -6,7 +6,7 @@
   Computação em Nuvem, Customer Support,
   Redes e Infraestrutura.
 - 💻 Experiência Atual: 
-  Profissional de TI no Atendimento e Suporte de Campo, implementando soluções e oferecendo suporte técnico em uma instituição pública local.
+  Profissional de TI no Atendimento e Suporte de Campo, implementando soluções e oferecendo suporte técnico.
 - 🌐 Estou em busca de oportunidades para me desenvolver e contribuir ainda mais na área de TI, especialmente em segurança da informação e computação em nuvem.
 
 <!--
