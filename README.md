@@ -2,11 +2,11 @@
 
 - 💼 **Atualmente:** Desempenho funções na área de TI em um órgão da administração pública local.
 
-- 🔍 **Áreas de Interesse:** Computação em Nuvem, Segurança da Informação, Suporte ao Cliente, Redes e Infraestrutura.
+- 🔍 **Áreas de Interesse:** Computação em Nuvem, Suporte ao Cliente, Segurança da Informação, Redes e Infraestrutura.
 
 - 💻 **Experiência Atual:** Profissional de TI no Atendimento e Suporte de Campo, implementando soluções e oferecendo suporte técnico.
 
-- 🌐 **Objetivo:** Busco oportunidades para me desenvolver e contribuir ainda mais na área de TI, com foco especial em Segurança da Informação e Computação em Nuvem.
+- 🌐 **Objetivo:** Busco oportunidades para me desenvolver e contribuir ainda mais na área de TI, com foco especial em Infraestrutura e Computação em Nuvem.
 
 
 <!--
